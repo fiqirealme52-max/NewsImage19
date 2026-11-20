@@ -8,6 +8,8 @@ One image summing up the world's news of **Thursday 19 November 2026**, built by
 
 The image is a newspaper front page covering ten stories from that day: the first Trump–Xi–Putin trilateral summit in Shenzhen at APEC; the International Court of Justice ruling on the Rohingya genocide case against Myanmar; Ukraine striking the Crimean Bridge for a third time in a week; Iran attacking Gulf states after US strikes on Qeshm island; COP31 climate ministers meeting in Antalya; a Van Gogh painting selling for a record $190.4 million; Anthropic raising a record $79.4 billion in its IPO; Muhammad Yunus's ancestral home being set on fire in Bangladesh; the IAEA warning that North Korea has expanded uranium enrichment; and the IEA calling the Hormuz crisis the greatest threat ever seen to energy security.
 
+Detailed edition (2026-11-20 revision): every story is numbered 01–10 with a section label, a bold headline and a 2–3 line body drawn only from the verified facts above, plus an IN BRIEF strip recapping all ten stories. The Rohingya panel now states the 2017 crackdown drove 730,000 Rohingya to Bangladesh. The drawing program is `draw.py` (Python/PIL, offline, deterministic).
+
 ## Stories covered
 
 1. **Shenzhen summit** — Donald Trump, Xi Jinping and Vladimir Putin hold their first trilateral summit, with Ukraine and nuclear arms control dominating.
